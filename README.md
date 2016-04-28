@@ -10,7 +10,7 @@ The primary use case for this project is to tunnel external connections from you
 In this example we need to forward port 80, 3000 and 3001 to an internal vm with the internal DNS (project.dev).
 
 ```bash
-$ tunnel 80,3000,3001 project.dev
+$ sudo tunnel 80,3000,3001 project.dev
 0.0.0.0:80 -> project.dev:80
 0.0.0.0:3000 -> project.dev:3000
 0.0.0.0:3001 -> project.dev:3001
