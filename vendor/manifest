@@ -1,0 +1,23 @@
+{
+	"version": 0,
+	"dependencies": [
+		{
+			"importpath": "github.com/alecthomas/template",
+			"repository": "https://github.com/alecthomas/template",
+			"revision": "a0175ee3bccc567396460bf5acd36800cb10c49c",
+			"branch": "master"
+		},
+		{
+			"importpath": "github.com/alecthomas/units",
+			"repository": "https://github.com/alecthomas/units",
+			"revision": "2efee857e7cfd4f3d0138cc3cbb1b4966962b93a",
+			"branch": "master"
+		},
+		{
+			"importpath": "gopkg.in/alecthomas/kingpin.v2",
+			"repository": "https://gopkg.in/alecthomas/kingpin.v2",
+			"revision": "8cccfa8eb2e3183254457fb1749b2667fbc364c7",
+			"branch": "master"
+		}
+	]
+}
